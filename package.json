@@ -1,0 +1,16 @@
+{
+  "name": "flashbang",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dylan Ireland",
+  "license": "ISC",
+  "dependencies": {
+    "@looksrare/sdk": "^0.8.0",
+    "axios": "^0.27.2",
+    "ethers": "^5.6.9"
+  }
+}
