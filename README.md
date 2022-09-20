@@ -6,4 +6,4 @@ F#%$ you OpenSea, give me an API key.
 
 Currently building this with the LooksRare API, but don't know how to build MakerOrder objects to match to my Taker Bid(s).
 
-If you know how to do this, and make a pull request with the solution, I'll give you 0.01 ETH.
+If you know how to do this, and make a pull request with the solution, I'll give you 0.1 ETH.
